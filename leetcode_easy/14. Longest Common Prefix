@@ -1,0 +1,6 @@
+
+1. Determine len of list.
+2. Determine sortest sub string.
+3. iterate over shortest sub-string, check each letter == letter of same index in all other sub-strings.
+	3.1 if it is the same add it to longest common prefix string.
+	3.2 When the letter being checked against other word is not the same return longest_common_prefix string.
