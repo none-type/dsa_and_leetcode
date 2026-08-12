@@ -14,7 +14,7 @@ def romanToInt(s : str):
 
 	for i in range(len(s)):
 
-		if i + 1 < len(s) and roman[s[i]] < roman[s[i + 1]]:
+		if i + 1 < len(s) and roman[s[i]] < roman[s[i + 1]]: # i + 1 < len(s) makes sure the last pair are checked without going out of bounds
 			result -= roman[s[i]]
 		else:
 			result += roman[s[i]]
