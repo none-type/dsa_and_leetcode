@@ -1,0 +1,65 @@
+==========================================================
+INTRODUCTION
+==========================================================
+
+What is an algorithm?
+---------------------
+A step by step procedure for solving computational problem.
+Written at Desing time.
+Written by sombody with domain knowledge.
+Written in any language, even english.
+Hardware or software / o.s independent.
+The algorithm is analyzed for efficency etc.
+
+What is a program?
+------------------
+A step by step procedure for solving computational problem.
+Written at implamentation time.
+Written by programmer.
+Written with programming language.
+Dependent on hardware and o.s.
+The program is tested.
+
+In software development there is the design phase and impl-
+amentation phase.
+
+First step is to design the program. You must understand what 
+you are trying to develop before beginning devolment. Write 
+the program in pseudo code / or plain english.Algorithms are 
+written at design time, and programs are written at implamentation
+time.The person who writes the algorithm has domain kowledge. 
+After we write an algorithm we analyze the algorithm.
+
+==========================================================
+PRIORI ANALYSIS & POSTERIORI TESTING
+==========================================================
+
+Priori Analysis
+---------------
+1. Algorithm
+2. Independent of language.
+3. Hardware Independent.
+4. Time & Space function.
+
+Posteriori Testing
+------------------
+1. Program.
+2. Language dependent.
+3. Hardware dependent.
+4. Watch time & bytes.
+
+==========================================================
+CHARACTERISTICS OF ALGORITHM
+==========================================================
+
+1. Input, 0 or more.
+2. Output, at least 1 output
+3. Definitness, every statement should be unambiguous and
+definite.
+4. Finiteness, algorithm must terminate at some point.
+5. Effectiveness, it should serve some purposs. Don't write 
+unnecassary statements.
+
+==========================================================
+HOW TO WRITE AND ANALYZE AN ALGORITHM
+==========================================================
